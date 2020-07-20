@@ -1,4 +1,5 @@
-"faturas": [
+{
+  "faturas": [
   {
     "id": 1,
     "numero_fatura": "30662617",
@@ -48,3 +49,4 @@
     "valor_fatura": 150.17
   }
 ]
+}
