@@ -1,53 +1,41 @@
 {
-  "faturas": [
-    {
-        codigoPagamento: "00190.00009 03226.571101 20040.856179 2 00000000010667",
-        competencia: "2020/01",
-        dataVencimento: "2020-07-15",
-        numeroFaturaVencida: "0202007000817634",
-        observacao: null,
-        referenciaFatura: "300014791332",
-        valorFatura: "106.67 "    },
-    {
-        codigoPagamento: "00190.00009 03226.571101 20040.856179 2 00000000010667",
-        competencia: "2020/02",
-        dataVencimento: "2020-07-15",
-        numeroFaturaVencida: "0202007000817634",
-        observacao: null,
-        referenciaFatura: "300014791332",
-        valorFatura: "106.67 "    },
-    {
-        codigoPagamento: "00190.00009 03226.571101 20040.856179 2 00000000010667",
-        competencia: "2020/03",
-        dataVencimento: "2020-07-15",
-        numeroFaturaVencida: "0202007000817634",
-        observacao: null,
-        referenciaFatura: "300014791332",
-        valorFatura: "106.67 "
-    },
-    {
-        codigoPagamento: "00190.00009 03226.571101 20040.856179 2 00000000010667",
-        competencia: "2020/04",
-        dataVencimento: "2020-07-15",
-        numeroFaturaVencida: "0202007000817634",
-        observacao: null,
-        referenciaFatura: "300014791332",
-        valorFatura: "106.67 "    },
-    {
-        codigoPagamento: "00190.00009 03226.571101 20040.856179 2 00000000010667",
-        competencia: "2020/05",
-        dataVencimento: "2020-07-15",
-        numeroFaturaVencida: "0202007000817634",
-        observacao: null,
-        referenciaFatura: "300014791332",
-        valorFatura: "106.67 "    },
-    {
-        codigoPagamento: "00190.00009 03226.571101 20040.856179 2 00000000010667",
-        competencia: "2020/06",
-        dataVencimento: "2020-07-15",
-        numeroFaturaVencida: "0202007000817634",
-        observacao: null,
-        referenciaFatura: "300014791332",
-        valorFatura: "106.67 "    }
-  ]
+  [
+      "faturas":
+      {
+          "codigoPagamento": "00190.00009 03226.571101 20040.856179 2 00000000010667",
+          "competencia": "2020/01",
+          "dataVencimento": "2020-07-15",
+          "numeroFaturaVencida": "0202007000817634",
+          "observacao": null,
+          "referenciaFatura": "300014791332",
+          "valorFatura": "106.67 "
+      },
+      {
+            "codigoPagamento": "00190.00009 03226.571101 20040.856179 2 00000000010667",
+            "competencia": "2020/01",
+            "dataVencimento": "2020-07-15",
+            "numeroFaturaVencida": "0202007000817634",
+            "observacao": null,
+            "referenciaFatura": "300014791332",
+            "valorFatura": "106.67 "
+      },
+      {
+            "codigoPagamento": "00190.00009 03226.571101 20040.856179 2 00000000010667",
+            "competencia": "2020/01",
+            "dataVencimento": "2020-07-15",
+            "numeroFaturaVencida": "0202007000817634",
+            "observacao": null,
+            "referenciaFatura": "300014791332",
+            "valorFatura": "106.67 "
+        },
+        {
+            "codigoPagamento": "00190.00009 03226.571101 20040.856179 2 00000000010667",
+            "competencia": "2020/01",
+            "dataVencimento": "2020-07-15",
+            "numeroFaturaVencida": "0202007000817634",
+            "observacao": null,
+            "referenciaFatura": "300014791332",
+            "valorFatura": "106.67 "
+        }
+    ]
 }
